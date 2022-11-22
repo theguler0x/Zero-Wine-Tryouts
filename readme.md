@@ -17,8 +17,8 @@ https://sourceforge.net/projects/zerowine-tryout/files/zerowine-tryout/0.0.2.x/
 https://sourceforge.net/projects/zerowine/files/
 
 
-http://localhost:8000
-##################################
+http://localhost:8000  
+###############################
 
 To configure the network, you must edit the following file: 
 /etc/network/interfaces
@@ -31,7 +31,7 @@ Current configuration:
     netmask 255.255.255.0
     gateway 192.168.198.2
 
-######################################
+###################################
 
 https://www.openhub.net/p/zerowine - 
 https://zerowine.sourceforge.net
