@@ -1,3 +1,4 @@
+Zero Wine Tryouts: A Malware Analysis Tool
 
 Introduction:
 Zero wine is an open source (GPL v2) research project to dynamically analyze the behavior of malware. Zero wine just runs the malware using WINE in a safe virtual sandbox (in an isolated environment) collecting information about the APIs called by the program.
