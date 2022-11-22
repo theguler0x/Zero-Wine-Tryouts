@@ -14,7 +14,8 @@ Download: https://sourceforge.net/projects/zerowine/files/
 
 
 
-######################################
+##################################
+
 To configure the network, you must edit the following file: 
 /etc/network/interfaces
 
