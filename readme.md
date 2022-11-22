@@ -35,4 +35,4 @@ https://zerowine.sourceforge.net
 Contact Information
 Author: Joxean Koret
 E-Mail:<admin@joxeankoret.com> - <joxeankoret@yahoo.es>
-Professional Website:http://www.joxeankoret.com
+Website: http://www.joxeankoret.com
