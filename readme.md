@@ -1,5 +1,5 @@
 <img src="https://zerowine-tryout.sourceforge.net/images/zerowine-1-small.jpg" width="auto">
-<img src="https://https://zerowine-tryout.sourceforge.net/images/zerowine-4.png" width="auto">
+<img src="https://zerowine-tryout.sourceforge.net/images/zerowine-4.png" width="auto">
 
 Zero Wine Tryouts: A Malware Analysis Tool - Joxean Koret
 
